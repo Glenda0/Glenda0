@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Glenda0
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on CircusExt and AINS Worlds
-- 📫 How to reach me Eleonore#1917
+- 🌱 I’m currently learning Laravel
+- 💞️ I’m looking to collaborate on Valleria and AINS Worlds
+- 📫 How to reach me Discord: Glenda#1337
 
 <!---
 Glenda0/Glenda0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
